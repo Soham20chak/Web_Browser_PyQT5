@@ -1,0 +1,5 @@
+https://www.codespeedy.com/creating-your-own-browser-using-python/
+https://www.geeksforgeeks.org/browser-developer-tools/
+https://www.wikihow.com/Make-a-Web-Browser
+https://www.pythonguis.com/examples/python-web-browser/
+https://techvidvan.com/tutorials/create-web-browser-python-pyqt/
